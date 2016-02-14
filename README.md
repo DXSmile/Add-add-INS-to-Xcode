@@ -1,5 +1,4 @@
-# Add-add-INS-to-Xcode
-如果和Xcode添加插件
+# 如何给Xcode添加插件?
 #### 如何给Xcode添加我们常用的插件呢?
 **下面用我们常用的一个快速添加注释的插件来举例:{VVDocumenter-Xcode}**
 ##### 1.首先我们需要知道自己电脑中Xcode的UUID
